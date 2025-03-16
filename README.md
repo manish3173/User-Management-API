@@ -19,8 +19,8 @@ This is a User Management API built with FastAPI. It allows users to create, rea
 
 2. Install the required packages:
    ```bash
-   pip install fastapi[all]
-   ```
+   pip install fastapi uvicorn
+     ```
 
 ## Usage
 
